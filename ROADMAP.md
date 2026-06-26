@@ -7,7 +7,7 @@ NoFile is early, useful, and still rough. This roadmap keeps the next improvemen
 - Add real screenshots or a short demo GIF to the README.
 - Create a tagged GitHub release with a packaged macOS build.
 - Improve first-run permission guidance for macOS.
-- Persist user settings and virtual folders more predictably.
+- Persist watched-folder, clipboard, retention, and virtual-folder settings more predictably.
 - Add basic automated tests for file type detection and watcher behavior.
 - Reduce noisy debug logging in production builds.
 

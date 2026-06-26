@@ -17,3 +17,4 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 - macOS packaging configuration through `electron-builder`.
 - Open-source documentation, contribution guide, security policy, issue templates, pull request template, and build workflow.
 - Generated README workflow visual explaining the core capture-and-drag workflow.
+- Product documentation for settings, custom watch paths, theme colors, view modes, and file actions.

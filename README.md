@@ -21,6 +21,35 @@ NoFile acts like a temporary shelf beside your desktop:
 2. The floating dock keeps those items visible without taking over the whole screen.
 3. You preview, copy, rename, group, reveal in Finder, or drag items into other apps when you need them.
 
+## Product Capabilities
+
+### Capture Sources
+
+- **Desktop and Downloads monitoring:** NoFile watches common file drop zones by default.
+- **Custom watch path:** Change the active watched folder path from the settings panel when your assets live somewhere else.
+- **Clipboard image capture:** Turn copied images into temporary PNG items that appear in the dock.
+- **Manual drop-in:** Drag files into the dock to add them to the current working shelf.
+
+### Workspace Controls
+
+- **Theme colors:** Switch between dark, light, purple, blue, green, and orange themes.
+- **Clipboard toggle:** Pause or resume clipboard image capture from settings.
+- **View modes:** Use list, grid, or compact views depending on how much detail you want.
+- **Floating window:** Keep NoFile visible as an always-on-top utility while working in other apps.
+
+### File Actions
+
+- **Preview:** Double-click supported files for a larger preview.
+- **Copy:** Copy image files back to the clipboard.
+- **Open and reveal:** Open files with the system default app or reveal them in Finder.
+- **Rename:** Rename files directly from the dock.
+- **Organize:** Group items into lightweight virtual folders.
+- **Drag out:** Drag files from NoFile into chat apps, documents, design tools, or other destinations.
+
+### Supported File Types
+
+NoFile recognizes common images, videos, audio files, documents, archives, text files, and code files. Temporary download files, hidden files, and incomplete browser downloads are ignored.
+
 ## What It Does
 
 - Watches Desktop and Downloads for newly created supported files.
