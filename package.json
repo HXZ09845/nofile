@@ -3,15 +3,36 @@
   "version": "1.0.0",
   "description": "NoFile - 文件暂存站，自动捕获截图和下载文件的桌面工具",
   "main": "dist/main/index.js",
+  "homepage": "https://github.com/HXZ09845/nofile#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HXZ09845/nofile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HXZ09845/nofile/issues"
+  },
   "scripts": {
     "dev": "electron-vite dev",
     "build": "electron-vite build",
     "preview": "electron-vite preview",
     "package": "electron-vite build && electron-builder"
   },
-  "keywords": ["electron", "nofile", "screenshot", "clipboard"],
+  "keywords": [
+    "electron",
+    "react",
+    "typescript",
+    "macos",
+    "desktop-app",
+    "file-management",
+    "screenshot",
+    "clipboard",
+    "productivity"
+  ],
   "author": "Jerry",
   "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
