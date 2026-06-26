@@ -10,8 +10,16 @@ NoFile is a lightweight Electron desktop app that watches your Desktop and Downl
 The project is in an early open-source state. It builds from source today; packaged public releases are on the roadmap.
 
 <p align="center">
-  <img src="build/icon.png" alt="NoFile app icon" width="128" />
+  <img src="docs/assets/nofile-workflow.png" alt="NoFile workflow: screenshots, downloads, and clipboard images flow into a floating desktop file dock, then move into other apps" />
 </p>
+
+## How It Works
+
+NoFile acts like a temporary shelf beside your desktop:
+
+1. Screenshots, downloads, dropped files, and clipboard images appear as recent items.
+2. The floating dock keeps those items visible without taking over the whole screen.
+3. You preview, copy, rename, group, reveal in Finder, or drag items into other apps when you need them.
 
 ## What It Does
 

@@ -16,3 +16,4 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 - File preview, copy, open, reveal in Finder, rename, and virtual folder flows.
 - macOS packaging configuration through `electron-builder`.
 - Open-source documentation, contribution guide, security policy, issue templates, pull request template, and build workflow.
+- Generated README workflow visual explaining the core capture-and-drag workflow.
