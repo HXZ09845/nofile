@@ -50,6 +50,12 @@ NoFile acts like a temporary shelf beside your desktop:
 
 NoFile recognizes common images, videos, audio files, documents, archives, text files, and code files. Temporary download files, hidden files, and incomplete browser downloads are ignored.
 
+## Download
+
+Download the latest macOS build from [GitHub Releases](https://github.com/HXZ09845/nofile/releases/latest).
+
+Current builds are unsigned. macOS may show a warning the first time you open the app.
+
 ## What It Does
 
 - Watches Desktop and Downloads for newly created supported files.
@@ -125,6 +131,10 @@ Contributions are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md), then o
 ## Security
 
 Please report security concerns through the process in [SECURITY.md](SECURITY.md). Do not open public issues for vulnerabilities.
+
+## Privacy
+
+NoFile watches local folders and can read clipboard images when clipboard capture is enabled. See [PRIVACY.md](PRIVACY.md) for details.
 
 ## License
 
